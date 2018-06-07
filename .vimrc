@@ -1,4 +1,4 @@
-" VIM Configuration (original)- Vincent Jousse
+" VIM Configuration (original)- Vincent Jousse "
 " Modified as per requirement - Akshay Deshpande "
 " Cancel the compatibility with Vi. Essential if you want
 " to enjoy the features of Vim
